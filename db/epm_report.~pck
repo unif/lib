@@ -1791,7 +1791,6 @@ CREATE OR REPLACE PACKAGE BODY epm_report AS
 
     BEGIN
 
-null;
         -- Çå¿ÕÁÙÊ±±í
         clear_gt_temp(p_main_codes => 'VALUE');
 
